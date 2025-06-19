@@ -4,7 +4,7 @@ A simple note-taking REST API built with Node.js, Express, and PostgreSQL.
 
 ## Features
 - User authentication (JWT)
-- Create, read, update, and delete notes
+- Create, read, update, search, delete notes
 - Notes have UUID string IDs
 - Swagger API documentation at `/api-docs`
 
